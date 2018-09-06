@@ -1,0 +1,6 @@
+﻿  CGrabber.cpp
+d:\visionlab1\visionlab1\cgrabber.cpp(33): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+d:\visionlab1\visionlab1\cgrabber.cpp(64): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+d:\visionlab1\visionlab1\cgrabber.cpp(69): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+d:\visionlab1\visionlab1\cgrabber.cpp(103): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  VisionLab1.vcxproj -> D:\VisionLab1\x64\Debug\VisionLab1.exe
